@@ -1,0 +1,4 @@
+To install sanity - npm -y create sanity@latest - To install in separate folder created for sanity
+Here the point to note is it will ask to install config files in same to select NO so it will create in differnt folders config file
+To install npm -y create sanity@latest in root folder
+Create sanity.js file to connect snaity to frontend
